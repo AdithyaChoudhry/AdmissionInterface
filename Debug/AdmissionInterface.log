@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'd:\admissioninterface\bin\admissioninterface.exe' is denied.
+  stdafx.cpp
+  AdmissionInterface.cpp
+  AdmissionInterfaceDlg.cpp
+  BinaryTree.cpp
+  BTree.cpp
+  Student.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file '..\bin\AdmissionInterface.exe'
